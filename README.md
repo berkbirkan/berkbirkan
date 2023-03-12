@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Senior Software Engineer from Turkey.
+I am Software Engineer from Turkey.
 
 I have been coding since the age of 8. I started my programming journey with Visual Basic 6.0 and developed simple desktop applications. In middle school, I continued with PHP and built on my skills.
 
